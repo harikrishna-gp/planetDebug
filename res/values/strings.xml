@@ -8,5 +8,7 @@
     <string name="title_section3">Section 3</string>
     <string name="erpTabTxt">ERP Tab</string>
     <string name="fdBtnTxt">All FDs</string>
+    <string name="okBtn">OK</string>
+    <string name="cnclBtn">Cancel</string>
 
 </resources>
